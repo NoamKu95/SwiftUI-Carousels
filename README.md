@@ -12,6 +12,7 @@ Sample app that demonstrates **six** iOS carousel patterns in one place:
 Each demo supports **Auto** and **Manual** modes with pause-on-user-drag.
 
 small taste from within the app:
+
 <img width="400" height="869" alt="nkCarousels" src="https://github.com/user-attachments/assets/ee4211ae-4bae-476b-af14-4992f15ba010" />
 
 **Medium Article:**  https://medium.com/@noamkurtzer/swiftui-carousels-74debf4f62ef
